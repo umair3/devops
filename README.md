@@ -1,6 +1,6 @@
 # devops
 
-##Create three docker machines and a swarm inside these.
+## Create three docker machines and a swarm inside these.
 
 ### 1. docker-machine ls
  ![](https://github.com/umair3/devops/blob/master/docker-machine%20ls.png?raw=true)
