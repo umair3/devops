@@ -1,10 +1,24 @@
 # devops
 
-docker-machine
+Create three docker machines and a swarm inside these.
 
-docker-machine create --driver virtualbox manager1
+1. docker-machine ls
+2. docker-machine create
+3. docker-machine ssh
+4. docker-machine stop
+5. docker-machine stop
 
+6. docker swarm init
+7. docker swarm join
+8. docker swarm leave
 
-hub.docker.com
+9. docker service ls
+10. docker service ps
+11. docker service rm
+
+12. docker info
+13. docker node ls
+14. docker inspect
+15. docker node update
 
 
