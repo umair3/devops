@@ -11,11 +11,15 @@
  * One Leader machine, and
  * Two Worker machines.
 
+### 1. Create Machines
+ Run this command on the host machine. Run three times in total, once for each machine on the host.
+ I named the machines like _manager1_, _worker1_ and _worker2_.
+ > "docker-machine create --driver <virtualization-software> <machine-name>"
+
+ ![](https://github.com/umair3/devops/blob/master/docker-machine%20create%20--driver%20%3Cvitualization-software%3E%20%3Cmachine-name%3E.png?raw=true)
+
 ### 1. docker-machine ls
  ![](https://github.com/umair3/devops/blob/master/docker-machine%20ls.png?raw=true)
-
-### 2. docker-machine create
- ![](https://github.com/umair3/devops/blob/master/docker-machine%20create%20--driver%20%3Cvitualization-software%3E%20%3Cmachine-name%3E.png?raw=true)
 
 ### 3. docker-machine ssh
  ![](https://github.com/umair3/devops/blob/master/docker-machine%20ssh%20%3Cmachine-name%3E.png?raw=true)
