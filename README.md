@@ -24,6 +24,7 @@
 
 ### 2. List the Machines
  > docker-machine ls
+
  ![](https://github.com/umair3/devops/blob/master/docker-machine%20ls.png?raw=true)
 
 ### 3. docker-machine ssh
