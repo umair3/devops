@@ -1,10 +1,18 @@
-# devops
+# devops using Dockers
+
+## Pre-requisites
+ * Docker MUST be installed.
+ * Virtualbox MUST be installed.
 
 ## Create three docker machines and a swarm inside these.
 
+ To create the swarm, we need at least two machines. One is the Leader and the others are worker.
+ For the sake of this document, I will create three machines:
+ * One Leader machine, and
+ * Two Worker machines.
+
 ### 1. docker-machine ls
  ![](https://github.com/umair3/devops/blob/master/docker-machine%20ls.png?raw=true)
-
 
 ### 2. docker-machine create
  ![](https://github.com/umair3/devops/blob/master/docker-machine%20create%20--driver%20%3Cvitualization-software%3E%20%3Cmachine-name%3E.png?raw=true)
