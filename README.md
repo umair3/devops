@@ -17,6 +17,7 @@ Create three docker machines and a swarm inside these.
 11. docker service rm
 
 12. docker info
+![docker info](https://raw.githubusercontent.com/umair3/devops/master/docker%20info.png)
 13. docker node ls
 14. docker inspect
 15. docker node update
