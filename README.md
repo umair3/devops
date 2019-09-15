@@ -22,7 +22,8 @@
 
  ![](https://github.com/umair3/devops/blob/master/docker-machine%20create%20--driver%20%3Cvitualization-software%3E%20%3Cmachine-name%3E.png?raw=true)
 
-### 2. docker-machine ls
+### 2. List the Machines
+ > docker-machine ls
  ![](https://github.com/umair3/devops/blob/master/docker-machine%20ls.png?raw=true)
 
 ### 3. docker-machine ssh
