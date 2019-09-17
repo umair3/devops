@@ -60,3 +60,11 @@
 
 ### 16. docker service scale
  ![](https://github.com/umair3/devops/blob/master/docker%20service%20scale%20%3Cservice-name=int%3E.png?raw=true)
+
+
+### 17. docker network
+
+### 18. docker network ls
+
+### 20. docker network inspect <network>
+
